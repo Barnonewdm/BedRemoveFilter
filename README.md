@@ -20,3 +20,7 @@ Daniel.mollura@nih.gov
 
 This code removes the bed out of the abdominal CT scan using intensity
 thresholding coupled with morphological operations.
+
+
+* ITK
+4.11
